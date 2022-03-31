@@ -13,5 +13,10 @@ public class FouurWheeler {
 	public void lorry() {
 		System.out.println("BharatBenz");
 			}
+	public void tatace() {
+		System.out.println("kutty aanai");
+		
+
+	}
 
 }
